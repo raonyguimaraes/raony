@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Egon subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Journals" title="Journals">
+            <outline type="rss" text="Chemical Reviews" title="Chemical Reviews" xmlUrl="http://feeds.feedburner.com/acs/chreay" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Journal of Cheminformatics - Latest articles" title="Journal of Cheminformatics - Latest articles" xmlUrl="http://jcheminf.com/latest/rss" htmlUrl="http://www.jcheminf.com"/>
+            <outline type="rss" text="Small" title="Small" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1613-6829" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291613-6829"/>
+            <outline type="rss" text="PLoS ONE Alerts: Chemistry" title="PLoS ONE Alerts: Chemistry" xmlUrl="http://feeds.feedburner.com/plosone/Chemistry"/>
+            <outline type="rss" text="Journal of Biomedical Semantics - Latest Articles" title="Journal of Biomedical Semantics - Latest Articles" xmlUrl="http://jbiomedsem.com/latest/rss" htmlUrl="http://www.jbiomedsem.com"/>
+            <outline type="rss" text="BioData Mining - Latest articles" title="BioData Mining - Latest articles" xmlUrl="http://biodatamining.org/latest/rss" htmlUrl="http://www.biodatamining.org/"/>
+            <outline type="rss" text="BMC Bioinformatics - Latest Articles" title="BMC Bioinformatics - Latest Articles" xmlUrl="http://biomedcentral.com/bmcbioinformatics/rss" htmlUrl="http://www.biomedcentral.com/bmcbioinformatics/"/>
+            <outline type="rss" text="Angewandte Chemie International Edition" title="Angewandte Chemie International Edition" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-3773" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291521-3773"/>
+            <outline type="rss" text="Molecular Informatics" title="Molecular Informatics" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1868-1751" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291868-1751"/>
+            <outline type="rss" text="Molecular Pharmaceutics" title="Molecular Pharmaceutics" xmlUrl="http://feeds.feedburner.com/acs/mpohbp" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Briefings in Bioinformatics - current issue" title="Briefings in Bioinformatics - current issue" xmlUrl="http://bib.oxfordjournals.org/rss/current.xml" htmlUrl="http://bib.oxfordjournals.org"/>
+            <outline type="rss" text="RSC - Nanoscale latest articles" title="RSC - Nanoscale latest articles" xmlUrl="http://feeds.rsc.org/rss/nr" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/NR"/>
+            <outline type="rss" text="Bioinformatics - current issue" title="Bioinformatics - current issue" xmlUrl="http://bioinformatics.oxfordjournals.org/rss/current.xml" htmlUrl="http://bioinformatics.oxfordjournals.org"/>
+            <outline type="rss" text="Journal of Computational Chemistry" title="Journal of Computational Chemistry" xmlUrl="http://www3.interscience.wiley.com/rss/journal/33822" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291096-987X"/>
+            <outline type="rss" text="Journal of Chemical Information and Modeling" title="Journal of Chemical Information and Modeling" xmlUrl="http://feeds.feedburner.com/acs/jcisd8" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Metabolomics @ FeedNavigator" title="Metabolomics @ FeedNavigator" xmlUrl="http://www.terkko.helsinki.fi/feednavigator/export.php?my=dae352129" htmlUrl="http://www.terkko.helsinki.fi/feednavigator"/>
+            <outline type="rss" text="Nano Letters: Latest Articles (ACS Publications)" title="Nano Letters: Latest Articles (ACS Publications)" xmlUrl="http://feeds.feedburner.com/acs/nalefd" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Nature AOP" title="Nature AOP" xmlUrl="http://feeds.nature.com/nature/rss/aop" htmlUrl="http://www.nature.com/nature/current_issue/"/>
+            <outline type="rss" text="Chemistry Central Journal - Latest articles" title="Chemistry Central Journal - Latest articles" xmlUrl="http://journal.chemistrycentral.com/rss" htmlUrl="http://journal.chemistrycentral.com/"/>
+            <outline type="rss" text="Bioinformatics - Advance Access" title="Bioinformatics - Advance Access" xmlUrl="http://bioinformatics.oxfordjournals.org/rss/ahead.xml" htmlUrl="http://bioinformatics.oxfordjournals.org"/>
+            <outline type="rss" text="(IUCr) Crystallography Journals Online - highlighted articles" title="(IUCr) Crystallography Journals Online - highlighted articles" xmlUrl="http://journals.iucr.org/services/newsletter/newsletter-articles.xml" htmlUrl="http://journals.iucr.org/services/newsletter/newsletter-articles.html"/>
+            <outline type="rss" text="Nature" title="Nature" xmlUrl="http://www.nature.com/nature/current_issue/rss" htmlUrl="http://www.nature.com/nature/current_issue/"/>
+            <outline type="rss" text="Forthcoming article in Acta Crystallographica Section A: Foundations of Crystallography" title="Forthcoming article in Acta Crystallographica Section A: Foundations of Crystallography" xmlUrl="http://journals.iucr.org/a/forthrss10.xml" htmlUrl="http://journals.iucr.org/a/journalhomepage.html"/>
+            <outline type="rss" text="ACS Nano: Latest Articles (ACS Publications)" title="ACS Nano: Latest Articles (ACS Publications)" xmlUrl="http://feeds.feedburner.com/acs/ancac3" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Pure and Applied Chemistry - ASAP Articles" title="Pure and Applied Chemistry - ASAP Articles" xmlUrl="http://iupac.org/publications/pac/feeds/asap.xml" htmlUrl="http://www.iupac.org/publications/pac/"/>
+            <outline type="rss" text="ScienceDirect Publication: Chemometrics and Intelligent Laboratory Systems" title="ScienceDirect Publication: Chemometrics and Intelligent Laboratory Systems" xmlUrl="http://rss.sciencedirect.com/publication/science/5232" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Journal of Chemical Theory and Computation" title="Journal of Chemical Theory and Computation" xmlUrl="http://feeds.feedburner.com/acs/jctcce" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Nature Nanotechnology - AOP - nature.com science feeds" title="Nature Nanotechnology - AOP - nature.com science feeds" xmlUrl="http://feeds.nature.com/nnano/rss/aop" htmlUrl="http://www.nature.com/nnano/current_issue/"/>
+            <outline type="rss" text="Nature Chemical Biology - AOP - nature.com science feeds" title="Nature Chemical Biology - AOP - nature.com science feeds" xmlUrl="http://feeds.nature.com/nchembio/rss/aop" htmlUrl="http://www.nature.com/nchembio/current_issue/"/>
+            <outline type="rss" text="ACS Chemical Biology" title="ACS Chemical Biology" xmlUrl="http://feeds.feedburner.com/acs/acbcct" htmlUrl="http://pubs.acs.org"/>
+            <outline type="rss" text="Journal of Computational Chemistry" title="Journal of Computational Chemistry" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1096-987X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291096-987X"/>
+        </outline>
+    </body>
+</opml>

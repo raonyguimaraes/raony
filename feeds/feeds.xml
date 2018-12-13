@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ross's academic journal RSS feed subscriptions</title>
+    </head>
+    <body>
+        <outline text="General Biology Journals" title="General Biology Journals">
+            <outline type="rss" text="BioEssays" title="BioEssays" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-1878" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291521-1878"/>
+            <outline type="rss" text="Biol J Linn Soc" title="Biol J Linn Soc" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1095-8312" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291095-8312"/>
+            <outline type="rss" text="Biology Letters" title="Biology Letters" xmlUrl="http://rsbl.royalsocietypublishing.org/rss/current.xml" htmlUrl="http://rsbl.royalsocietypublishing.org"/>
+            <outline type="rss" text="BMC Research Notes" title="BMC Research Notes" xmlUrl="http://www.biomedcentral.com/bmcresnotes/rss/" htmlUrl="http://www.biomedcentral.com/bmcresnotes/"/>
+            <outline type="rss" text="Current Biology" title="Current Biology" xmlUrl="http://www.cell.com/rssFeed/current-biology/rss.NewIssue.xml" htmlUrl="http://www.cell.com/current-biology/current"/>
+            <outline type="rss" text="F1000 Research" title="F1000 Research" xmlUrl="http://f1000research.com/rss" htmlUrl="http://f1000research.com"/>
+            <outline type="rss" text="Ideas in Ecology and Evolution" title="Ideas in Ecology and Evolution" xmlUrl="http://library.queensu.ca/ojs/index.php/IEE/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="http://library.queensu.ca/ojs/index.php/IEE"/>
+            <outline type="rss" text="Evolution" title="Evolution" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1558-5646" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291558-5646"/>
+            <outline type="rss" text="Nature Communications" title="Nature Communications" xmlUrl="http://feeds.nature.com/ncomms/rss/current" htmlUrl="http://www.nature.com/ncomms/rss/current"/>
+            <outline type="rss" text="Nature" title="Nature" xmlUrl="http://www.nature.com/nature/current_issue/rss" htmlUrl="http://www.nature.com/nature/current_issue/"/>
+            <outline type="rss" text="PeerJ Preprints" title="PeerJ Preprints" xmlUrl="https://peerj.com/preprints/index.atom"/>
+            <outline type="rss" text="PeerJ" title="PeerJ" xmlUrl="https://peerj.com/articles/index.atom"/>
+            <outline type="rss" text="Phil Trans B" title="Phil Trans B" xmlUrl="http://rstb.royalsocietypublishing.org/rss/current.xml" htmlUrl="http://rstb.royalsocietypublishing.org"/>
+            <outline type="rss" text="PLoS Biology" title="PLoS Biology" xmlUrl="http://www.plosbiology.org/article/feed"/>
+            <outline type="rss" text="PLoS1filtered" title="PLoS1filtered" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ba577229dc06a7e92d6cafe18e7a53e2&amp;_render=rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=ba577229dc06a7e92d6cafe18e7a53e2"/>
+            <outline type="rss" text="PNAS_early" title="PNAS_early" xmlUrl="http://www.pnas.org/rss/ahead.xml" htmlUrl="http://www.pnas.org"/>
+            <outline type="rss" text="ProcB Early" title="ProcB Early" xmlUrl="http://rspb.royalsocietypublishing.org/rss/firstcite.xml" htmlUrl="http://rspb.royalsocietypublishing.org"/>
+            <outline type="rss" text="Science" title="Science" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="http://www.sciencemag.org"/>
+            <outline type="rss" text="Scientific Reports" title="Scientific Reports" xmlUrl="http://feeds.nature.com/srep/rss/current?format=xml" htmlUrl="http://www.nature.com/srep/rss/latest"/>
+            <outline type="rss" text="Zoo J Linn Soc" title="Zoo J Linn Soc" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1096-3642" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291096-3642"/>
+        </outline>
+        <outline text="Museum Journals" title="Museum Journals">
+            <outline type="rss" text="AMNH Novitates" title="AMNH Novitates" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=novi" htmlUrl="http://www.bioone.org/loi/novi?af=R"/>
+            <outline type="rss" text="BioScience" title="BioScience" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=bisi" htmlUrl="http://www.bioone.org/loi/bisi?af=R"/>
+            <outline type="rss" text="Bull AMNH" title="Bull AMNH" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=amnb" htmlUrl="http://www.bioone.org/loi/amnb?af=R"/>
+            <outline type="rss" text="Bull Carnegie MNH" title="Bull Carnegie MNH" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=carb" htmlUrl="http://www.bioone.org/loi/carb?af=R"/>
+            <outline type="rss" text="Bull Peabody MNH" title="Bull Peabody MNH" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pbmb" htmlUrl="http://www.bioone.org/loi/pbmb?af=R"/>
+            <outline type="rss" text="PNAS Philly" title="PNAS Philly" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=ansp" htmlUrl="http://www.bioone.org/loi/ansp?af=R"/>
+        </outline>
+        <outline text="Systematics Journals" title="Systematics Journals">
+            <outline type="rss" text="Acta Biotheoretica" title="Acta Biotheoretica" xmlUrl="http://www.springerlink.com/content/102835?sortorder=asc&amp;export=rss"/>
+            <outline type="rss" text="Acta Zoologica" title="Acta Zoologica" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1463-6395" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291463-6395"/>
+            <outline type="rss" text="AR EcoEvoSyst" title="AR EcoEvoSyst" xmlUrl="http://arjournals.annualreviews.org/action/showFeed?ui=0&amp;mi=3ymwk&amp;ai=sh&amp;jc=ecolsys&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/ecolsys?ai=sh&amp;mi=3ymwk&amp;af=R"/>
+            <outline type="rss" text="Bioinformatics" title="Bioinformatics" xmlUrl="http://bioinformatics.oxfordjournals.org/rss/current.xml" htmlUrl="http://bioinformatics.oxfordjournals.org"/>
+            <outline type="rss" text="Biology and Philosophy" title="Biology and Philosophy" xmlUrl="http://www.springerlink.com/content/102856?sortorder=asc&amp;export=rss"/>
+            <outline type="rss" text="BMC Bioinformatics" title="BMC Bioinformatics" xmlUrl="http://www.biomedcentral.com/bmcbioinformatics/rss" htmlUrl="http://www.biomedcentral.com/bmcbioinformatics/"/>
+            <outline type="rss" text="BMC Evo Biol" title="BMC Evo Biol" xmlUrl="http://www.biomedcentral.com/bmcevolbiol/rss" htmlUrl="http://www.biomedcentral.com/bmcevolbiol/"/>
+            <outline type="rss" text="Brief Bioinformatics" title="Brief Bioinformatics" xmlUrl="http://bib.oxfordjournals.org/rss/current.xml" htmlUrl="http://bib.oxfordjournals.org"/>
+            <outline type="rss" text="Cladistics" title="Cladistics" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1096-0031" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291096-0031"/>
+            <outline type="rss" text="Contributions to Zoology" title="Contributions to Zoology" xmlUrl="http://dpc.uba.uva.nl/c/ctz/ctz.rss" htmlUrl="http://dpc.uba.uva.nl/ctz"/>
+            <outline type="rss" text="Copeia" title="Copeia" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=cope" htmlUrl="http://www.bioone.org/loi/cope?af=R"/>
+            <outline type="rss" text="Ecology and Evolution" title="Ecology and Evolution" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2045-7758" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%292045-7758"/>
+            <outline type="rss" text="Evolution and Development" title="Evolution and Development" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1525-142X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291525-142X"/>
+            <outline type="rss" text="Frontiers in Zoology" title="Frontiers in Zoology" xmlUrl="http://www.frontiersinzoology.com/rss" htmlUrl="http://www.frontiersinzoology.com"/>
+            <outline type="rss" text="Integ and Comp Biol" title="Integ and Comp Biol" xmlUrl="http://icb.oxfordjournals.org/rss/current.xml" htmlUrl="http://icb.oxfordjournals.org"/>
+            <outline type="rss" text="Invertebrate Systematics" title="Invertebrate Systematics" xmlUrl="http://www.publish.csiro.au/RSS_Feed/CSIRO_Publishing_Recent_IS.xml" htmlUrl="http://www.publish.csiro.au/nid/120.htm"/>
+            <outline type="rss" text="J Mammal Evo" title="J Mammal Evo" xmlUrl="http://www.springerlink.com/content/104918?sortorder=asc&amp;export=rss"/>
+            <outline type="rss" text="J Nat History" title="J Nat History" xmlUrl="http://www.informaworld.com/ampp/rss~content=0022-2933"/>
+            <outline type="rss" text="J of Zoology" title="J of Zoology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1469-7998" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291469-7998"/>
+            <outline type="rss" text="J ZooSER" title="J ZooSER" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1439-0469" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291439-0469"/>
+            <outline type="rss" text="Mol Phy Evo" title="Mol Phy Evo" xmlUrl="http://rss.sciencedirect.com/publication/science/6963" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Organisms Diversity and Evolution (Online First™)" title="Organisms Diversity and Evolution (Online First™)" xmlUrl="http://www.springerlink.com/content/1439-6092/preprint/?export=rss"/>
+            <outline type="rss" text="Syst Biol" title="Syst Biol" xmlUrl="http://sysbio.oxfordjournals.org/rss/current.xml" htmlUrl="http://sysbio.oxfordjournals.org"/>
+            <outline type="rss" text="Systematics and Biodiversity" title="Systematics and Biodiversity" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=3h2hkd&amp;ai=1fj&amp;jc=tsab20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/loi/tsab20?ai=1fj&amp;mi=3h2hkd&amp;af=R"/>
+            <outline type="rss" text="Taxon" title="Taxon" xmlUrl="http://api.ingentaconnect.com/content/iapt/tax/latest?format=rss" htmlUrl="http://www.ingentaconnect.com/content/iapt/tax/latest"/>
+            <outline type="rss" text="TREE" title="TREE" xmlUrl="http://rss.sciencedirect.com/publication/science/6081" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="ZookeysNotFiltered" title="ZookeysNotFiltered" xmlUrl="http://www.feedrinse.com/services/rinse/?rinsedurl=c8247e9c72a7f96244231b32a3567470" htmlUrl="http://www.pensoft.net/"/>
+            <outline type="rss" text="Zool Anzeiger" title="Zool Anzeiger" xmlUrl="http://rss.sciencedirect.com/publication/science/20205" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Zoologica Scripta" title="Zoologica Scripta" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1463-6409" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291463-6409"/>
+            <outline type="rss" text="Zoomorphology" title="Zoomorphology" xmlUrl="http://www.springerlink.com/content/100492?sortorder=asc&amp;export=rss"/>
+            <outline type="rss" text="Zoosystematics and Evolution" title="Zoosystematics and Evolution" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1860-0743a" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291860-0743a"/>
+        </outline>
+        <outline text="Palaeo Journals" title="Palaeo Journals">
+            <outline type="rss" text="Acta Pal Pol" title="Acta Pal Pol" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=acpp" htmlUrl="http://www.bioone.org/loi/acpp?af=R"/>
+            <outline type="rss" text="Alcheringa" title="Alcheringa" xmlUrl="http://www.informaworld.com/ampp/rss~content=0311-5518"/>
+            <outline type="rss" text="Ameghiniana" title="Ameghiniana" xmlUrl="http://www.scielo.org.ar/rss.php?pid=0002-7014&amp;lang=es" htmlUrl="http://www.scielo.org.ar/rss.php?pid=0002-701420100004&amp;lang=es"/>
+            <outline type="rss" text="Anais Ac Brasil Ciências" title="Anais Ac Brasil Ciências" xmlUrl="http://www.scielo.br/rss.php?pid=0001-376520100004&amp;lang=en" htmlUrl="http://www.scielo.br/rss.php?pid=0001-376520100004&amp;lang=en"/>
+            <outline type="rss" text="Can J of Earth Sci" title="Can J of Earth Sci" xmlUrl="http://api.ingentaconnect.com/content/nrc/cjes/latest?format=rss" htmlUrl="http://www.ingentaconnect.com/content/nrc/cjes/latest"/>
+            <outline type="rss" text="Cretaceous Research" title="Cretaceous Research" xmlUrl="http://rss.sciencedirect.com/publication/science/6755" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="EEST RS Edinburgh" title="EEST RS Edinburgh" xmlUrl="http://journals.cambridge.org/data/rss/feed_TRE_rss_2.0.xml" htmlUrl="http://journals.cambridge.org/action/displayJournal?jid=TRE"/>
+            <outline type="rss" text="Geobios" title="Geobios" xmlUrl="http://rss.sciencedirect.com/publication/science/7224" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="Geodiversitas" title="Geodiversitas" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=geod" htmlUrl="http://www.bioone.org/loi/geod?af=R"/>
+            <outline type="rss" text="Historical Biology" title="Historical Biology" xmlUrl="http://api.ingentaconnect.com/content/tandf/ghbi/latest?format=rss" htmlUrl="http://www.ingentaconnect.com/content/tandf/ghbi/latest"/>
+            <outline type="rss" text="J Paleontology" title="J Paleontology" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pleo" htmlUrl="http://www.bioone.org/loi/pleo?af=R"/>
+            <outline type="rss" text="J Syst Pal" title="J Syst Pal" xmlUrl="http://journals.cambridge.org/data/rss/feed_SYP_rss_2.0.xml" htmlUrl="http://journals.cambridge.org/action/displayJournal?jid=SYP"/>
+            <outline type="rss" text="J Vert Paleontology" title="J Vert Paleontology" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=vrpa" htmlUrl="http://www.bioone.org/loi/vrpa?af=R"/>
+            <outline type="rss" text="J. Geol. Soc. Sweden" title="J. Geol. Soc. Sweden" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=3krcxe&amp;ai=2iq&amp;jc=sgff20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/loi/sgff20?ai=2iq&amp;mi=3krcxe&amp;af=R"/>
+            <outline type="rss" text="J. Syst. Pal. EarlyView" title="J. Syst. Pal. EarlyView" xmlUrl="http://www.informaworld.com/ampp/rss~content=t913521956"/>
+            <outline type="rss" text="Lethaia" title="Lethaia" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1502-3931" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291502-3931"/>
+            <outline type="rss" text="Neues Jahrbuch für G&amp;P" title="Neues Jahrbuch für G&amp;P" xmlUrl="http://api.ingentaconnect.com/content/schweiz/njbgeol/latest?format=rss" htmlUrl="http://www.ingentaconnect.com/content/schweiz/njbgeol/latest"/>
+            <outline type="rss" text="Pal Abteilung A" title="Pal Abteilung A" xmlUrl="http://www.schweizerbart.de/services/feeds/papers/pala/en/rss.xml"/>
+            <outline type="rss" text="Pal Research" title="Pal Research" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=jpal" htmlUrl="http://www.bioone.org/loi/jpal?af=R"/>
+            <outline type="rss" text="Pal Zeitschrift" title="Pal Zeitschrift" xmlUrl="http://www.springerlink.com/content/121153?sortorder=asc&amp;export=rss"/>
+            <outline type="rss" text="Pal Zhurnal" title="Pal Zhurnal" xmlUrl="http://www.springerlink.com/content/119887?sortorder=asc&amp;export=rss"/>
+            <outline type="rss" text="Palaeontology" title="Palaeontology" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1475-4983" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291475-4983"/>
+            <outline type="rss" text="Palaeoworld (CAS)" title="Palaeoworld (CAS)" xmlUrl="http://rss.sciencedirect.com/publication/science/33783" htmlUrl="http://www.sciencedirect.com"/>
+            <outline type="rss" text="PALAIOS" title="PALAIOS" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=palo" htmlUrl="http://www.bioone.org/loi/palo?af=R"/>
+            <outline type="rss" text="Paleobiology" title="Paleobiology" xmlUrl="http://www.bioone.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=pbio" htmlUrl="http://www.bioone.org/loi/pbio?af=R"/>
+            <outline type="rss" text="Revista geol de Chile" title="Revista geol de Chile" xmlUrl="http://www.scielo.cl/rss.php?pid=0716-020820080002&amp;lang=en" htmlUrl="http://www.scielo.cl/rss.php?pid=0716-020820080002&amp;lang=en"/>
+            <outline type="rss" text="Scottish J Geology" title="Scottish J Geology" xmlUrl="http://sjg.lyellcollection.org/rss/current.xml" htmlUrl="http://sjg.lyellcollection.org"/>
+            <outline type="rss" text="Swiss J. of Geosciences" title="Swiss J. of Geosciences" xmlUrl="http://www.springerlink.com/content/1661-8726/?k=phylogeny&amp;export=rss"/>
+        </outline>
+    </body>
+</opml>
